@@ -38,6 +38,8 @@ three times:
 
 | | |
 |---|---|
+| **One-tap filter chips** | Bills: *Closing · Big name · Best to learn from · Beginner · Remote · Research · Medicine · Anyone*. Passes adds *Fellowship · Grant · Course · Conference · Certification · Membership · Ambassadorship · Community · Comes round · Bengaluru* |
+| **Sort by "Most useful to you"** | Not by deadline or prize — by a judgement of what is actually worth your time. *Prestige* is the other axis |
 | **Press `/` anywhere** | Jumps straight into search without touching the mouse |
 | **Press `Escape`** | Clears the search and puts the whole wall back |
 | **Filters as you type** | Debounced, so the wall re-flows while you think |
