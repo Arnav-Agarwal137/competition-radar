@@ -34,6 +34,17 @@ three times:
 - A bill shouts its reward and whispers its terms, which is exactly the right
   hierarchy for a prize and its eligibility rules.
 
+## How the walls handle
+
+| | |
+|---|---|
+| **Press `/` anywhere** | Jumps straight into search without touching the mouse |
+| **Press `Escape`** | Clears the search and puts the whole wall back |
+| **Filters as you type** | Debounced, so the wall re-flows while you think |
+| **Sorting and filtering** | By deadline, by reward, by what you are eligible for |
+| **Phone layouts** | Both walls are built for a phone, not shrunk onto one |
+| **One file each** | **Bill Wall 779 KB, Pass Wall 355 KB** — every entry embedded, no server, works offline |
+
 ## What is actually hard about this
 
 Not the page. **The data.** Almost every mistake this project has made was a
