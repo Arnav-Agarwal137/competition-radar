@@ -101,7 +101,17 @@ machinery pointed at a different person.
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE). The code is free to use. The judgements are mine
-and may be wrong; **check every deadline at its source before you act on it.**
+Free noncommercial use and private improvements are permitted for newly licensed original work.
+Share the official links freely. Redistributing copies, publishing modified versions, public mirrors,
+rebranding, and commercial use require Arnav Agarwal's prior written permission.
+Keep authorship and required notices. This is a source-available custom licence, not an open-source licence.
+Earlier licence grants and third-party rights remain in force; see [LICENSE-HISTORY.md](LICENSE-HISTORY.md).
+Previously published source, embedded app notices, tags and downloadable binaries retain their earlier grants;
+this policy does not retroactively prohibit their previously permitted use or distribution.
+
+Full terms: [LICENSE](LICENSE). Permission requests: [GitHub issues](https://github.com/Arnav-Agarwal137/competition-radar/issues).
+
+Check every deadline at its official source before acting on it.
 
 Built by [Arnav Agarwal](https://github.com/Arnav-Agarwal137).
+

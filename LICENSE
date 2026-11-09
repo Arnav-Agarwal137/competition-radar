@@ -1,21 +1,65 @@
-MIT License
+Arnav Agarwal Noncommercial Use and Controlled Distribution Licence 1.0
+Effective for newly licensed original work from 9 November 2026
+Copyright (c) 2026 Arnav Agarwal. All rights reserved except as expressly granted.
 
-Copyright (c) 2026 Arnav Agarwal
+1. Scope and existing rights
+This licence applies only to original material owned by Arnav Agarwal and offered
+under these terms. It does not withdraw, replace, or restrict permissions already
+granted under an earlier licence. Material previously released under MIT,
+PolyForm Noncommercial, or another licence remains usable under those earlier
+grants. See LICENSE-HISTORY.md. These restrictions govern only rights not already
+granted and new original material offered under this licence.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Free noncommercial use and private improvements
+You may download, run, study, and make private modifications to the covered
+material, without payment, solely for noncommercial purposes. You may use private
+modifications yourself for those purposes. No transfer of copyright is made.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Share the official link; permission for copies
+You may freely share links to the owner's official repository, website, and
+downloads. Without prior written permission from Arnav Agarwal, you may not
+redistribute copies of the covered material, publish modified versions, operate
+a public mirror or hosted copy, sublicense it, or include it in another publicly
+distributed product. This applies to free distribution as well as paid distribution.
+GitHub's contractual rights to view and fork public repositories are not restricted
+by this licence; a GitHub fork does not itself grant permission for other uses.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. No commercial use without a separate written agreement
+No commercial use is granted. This includes selling copies, charging for access,
+subscriptions, advertising-supported copies or hosting, inclusion in a paid product
+or service, commercial internal use, and use primarily directed toward commercial
+advantage or monetary compensation. Free access does not make a commercial use
+noncommercial. A commercial licence must be obtained separately from the owner.
+
+5. Authorship and branding
+Keep the owner's copyright and applicable licence notices. Do not represent the
+original work as your own, remove attribution, imply endorsement, or use the
+project's name, logo, or the owner's identity to market an unauthorised version.
+No trademark rights are granted. Approved distributions must identify modifications
+and their authors without concealing the original authorship.
+
+6. Improvements and permission requests
+Bug reports and descriptions of proposed improvements are welcome. Contact the
+owner through the official repository's issues before publishing or sending a
+modified copy. A request, an issue response acknowledging receipt, or silence is
+not permission: approval must expressly authorise the proposed distribution or
+commercial use. Do not post confidential information in public issues. Submitting
+an idea or patch does not automatically transfer its author's copyright; terms for
+code contributions must be agreed before acceptance.
+
+7. Third-party material and legal exceptions
+Third-party code, data, fonts, rules, model weights, libraries, and other components
+keep their own licences. Nothing here restricts rights those licences independently
+grant, or rights that applicable law does not allow to be restricted. Permission
+from this project's owner cannot grant rights belonging to third parties.
+
+8. No warranty and limitation of liability
+The covered material is provided AS IS, without warranty of any kind, including
+merchantability, fitness for a particular purpose, accuracy, and noninfringement.
+To the fullest extent permitted by law, the owner is not liable for claims or
+damages arising from its use or distribution. Applicable mandatory rights remain.
+
+9. Reserved rights and law
+No rights are granted except those expressly stated. Uses outside this grant
+require prior written permission. These terms are governed by the laws of India,
+subject to applicable mandatory law.
